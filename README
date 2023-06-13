@@ -1,0 +1,10 @@
+To run:
+	1) Source the _venv file to get the needed libraries
+		$ source _venv/bin/activate
+	2) Run python3 main.py {data}
+		where data is a space seperated file of x and y_n numbers
+		ex)
+			1 2 1
+			3 4 2
+			6 7 3
+			9 1000 4
